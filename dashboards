@@ -1,0 +1,7 @@
+general:c77ede30-8890-11ea-804e-35e6e77bc251
+seq-write:6df0cb00-8c9e-11ea-9b91-3337e4ba482a
+seq-read:222dd860-8c9f-11ea-9b91-3337e4ba482a
+seq-rw:c63cbf20-8c9f-11ea-9b91-3337e4ba482a
+rand-write:5872c9f0-8cf7-11ea-ad5c-e768e0e55378
+rand-read:f1181700-8cf7-11ea-ad5c-e768e0e55378
+rand-rw:8e065860-8cf8-11ea-ad5c-e768e0e55378
